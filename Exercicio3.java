@@ -3,6 +3,7 @@ import javax.swing.JOptionPane;
 public class Exercicio3 
 {
     public static void main(String[] args) 
+    // test
     {
         Double V1, V2, R;
         V1 = Double.parseDouble(JOptionPane.showInputDialog("Digite o dividendo"));
